@@ -25,3 +25,4 @@ pip install scipy
 # Caveats 
 #### We don't save your face!
 #### This was made by a student for fun, so please enjoy it for fun only 
+### Python 3.8 is the best version Please install Python 3.8 first! 
